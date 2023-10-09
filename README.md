@@ -1,5 +1,7 @@
 # HackRu-BioXplorer
-BioXplorer is an interactive web application designed to provide users with an immersive experience in the world of animals. Whether you are a nature enthusiast or a beginner in the field of animal exploration, BioXplorer offers a range of features to enhance your learning journey. The application allows users to identify animals from images, explore animal locations on a map, learn about animal evolution, and even contact experts for more information. As a result of time constraints, this project was completed in 24 hours, in relation to Rutger's University annual Hackathon, where we were recognized as the winners of the "Education" track. Here's a guide to get you started with the BioXplorer web application:
+BioXplorer is an interactive web application designed to provide users with an immersive experience in the world of animals. Whether you are a nature enthusiast or a beginner in the field of animal exploration, BioXplorer offers a range of features to enhance your learning journey. The application allows users to identify animals from images, explore animal locations on a map, learn about animal evolution, and even contact experts for more information. As a result of time constraints, this project was completed in 24 hours, in relation to Rutger's University annual Hackathon, where we were recognized as the winners of the "Education" track.
+
+Click on the thumbnail for our demonstration!
 
 [<img src="https://i.postimg.cc/MGQ29Z7N/gallery.jpg" width="50%">](https://www.youtube.com/watch?v=bIrPtQfJUgA)
 
