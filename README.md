@@ -6,6 +6,7 @@ The home page of BioXplorer provides users with an introduction to the applicati
 - Interactive Introduction: Learn about the purpose of BioXplorer and its mission to provide an enriching experience in the world of animals.
 - Features Overview: Discover the main functionalities of the application, including the Learning Chatbot, GPT Animal Detection, Contribution Opportunities, and Map API.
 
+![Screenshot](gallery,jpg)
 
 ## Animal Identification and Learning Chatbot
 The Upload page allows users to upload images of animals and learn more about them. Here's how it works:
